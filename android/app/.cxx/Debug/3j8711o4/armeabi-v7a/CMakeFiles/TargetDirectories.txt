@@ -1,0 +1,2 @@
+D:/3rd Year/1st Semester/new_app/android/app/.cxx/Debug/3j8711o4/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/3rd Year/1st Semester/new_app/android/app/.cxx/Debug/3j8711o4/armeabi-v7a/CMakeFiles/rebuild_cache.dir
